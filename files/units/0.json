@@ -1,0 +1,274 @@
+{
+  "gameId": 0,
+  "name": "<*unitName0>",
+  "image": "unit0.png",
+  "nation": {
+    "name": "<*nationName1>",
+    "nationId": 1
+  },
+  "description": "<*unitText0>",
+  "size": 22.0,
+  "viewRange": 150.0,
+  "health": 500.0,
+  "controllable": true,
+  "tags": [
+    {
+      "gameId": 0,
+      "name": "Unit",
+      "groupName": "Unit tags"
+    },
+    {
+      "gameId": 2,
+      "name": "<*unitTag/1>",
+      "groupName": "Unit tags"
+    },
+    {
+      "gameId": 5,
+      "name": "<*unitTag/4>",
+      "groupName": "Unit tags"
+    },
+    {
+      "gameId": 6,
+      "name": "<*unitTag/5>",
+      "groupName": "Unit tags"
+    },
+    {
+      "gameId": 15,
+      "name": "<*unitTag/14>",
+      "groupName": "Unit tags"
+    }
+  ],
+  "searchTags": [
+    {
+      "gameId": 0,
+      "name": "<*unitSearchTag/0>",
+      "groupName": "Unit search tags"
+    },
+    {
+      "gameId": 1,
+      "name": "<*unitSearchTag/1>",
+      "groupName": "Unit search tags"
+    },
+    {
+      "gameId": 2,
+      "name": "<*unitSearchTag/2>",
+      "groupName": "Unit search tags"
+    },
+    {
+      "gameId": 5,
+      "name": "<*unitSearchTag/5>",
+      "groupName": "Unit search tags"
+    },
+    {
+      "gameId": 7,
+      "name": "<*unitSearchTag/7>",
+      "groupName": "Unit search tags"
+    },
+    {
+      "gameId": 10,
+      "name": "<*unitSearchTag/10>",
+      "groupName": "Unit search tags"
+    }
+  ],
+  "receiveFriendlyDamage": false,
+  "threat": 10,
+  "storageMultiplier": 100,
+  "abilities": [
+    {
+      "containerType": 1,
+      "containerName": "Work abilities",
+      "work": {
+        "workId": 0,
+        "enabled": true,
+        "makeTime": 9.0,
+        "cost": [
+          {
+            "resourceId": 0,
+            "resourceName": "<*recourceName/0>",
+            "value": 50,
+            "image": "resource0.png"
+          },
+          {
+            "resourceId": 1,
+            "resourceName": "<*recourceName/1>",
+            "value": 0,
+            "image": "resource1.png"
+          },
+          {
+            "resourceId": 2,
+            "resourceName": "<*recourceName/2>",
+            "value": 0,
+            "image": "resource2.png"
+          }
+        ]
+      },
+      "ability": {
+        "abilityId": 0,
+        "abilityType": 0,
+        "entityInfo": {
+          "entityName": "<*unitName1>",
+          "entityId": 1,
+          "entityImage": "unit1.png",
+          "entityNation": {
+            "name": "<*nationName1>",
+            "nationId": 1
+          }
+        }
+      }
+    },
+    {
+      "containerType": 1,
+      "containerName": "Work abilities",
+      "work": {
+        "workId": 1,
+        "enabled": true,
+        "makeTime": 20.0,
+        "cost": [
+          {
+            "resourceId": 0,
+            "resourceName": "<*recourceName/0>",
+            "value": 50,
+            "image": "resource0.png"
+          },
+          {
+            "resourceId": 1,
+            "resourceName": "<*recourceName/1>",
+            "value": 50,
+            "image": "resource1.png"
+          },
+          {
+            "resourceId": 2,
+            "resourceName": "<*recourceName/2>",
+            "value": 0,
+            "image": "resource2.png"
+          }
+        ]
+      },
+      "ability": {
+        "abilityId": 1,
+        "abilityType": 1,
+        "entityInfo": {
+          "entityName": "<*upgrade0/0>",
+          "entityId": 0,
+          "entityImage": "upgrade0.png"
+        }
+      }
+    },
+    {
+      "containerType": 1,
+      "containerName": "Work abilities",
+      "work": {
+        "workId": 2,
+        "enabled": true,
+        "makeTime": 5.0,
+        "cost": [
+          {
+            "resourceId": 0,
+            "resourceName": "<*recourceName/0>",
+            "value": 40,
+            "image": "resource0.png"
+          },
+          {
+            "resourceId": 1,
+            "resourceName": "<*recourceName/1>",
+            "value": 0,
+            "image": "resource1.png"
+          },
+          {
+            "resourceId": 2,
+            "resourceName": "<*recourceName/2>",
+            "value": 0,
+            "image": "resource2.png"
+          }
+        ]
+      },
+      "ability": {
+        "abilityId": 2,
+        "abilityType": 0,
+        "entityInfo": {
+          "entityName": "<*unitName313>",
+          "entityId": 313,
+          "entityImage": "unit313.png",
+          "entityNation": {
+            "name": "<*nationName1>",
+            "nationId": 1
+          }
+        }
+      }
+    }
+  ],
+  "armor": [
+    {
+      "value": 4.0,
+      "probability": 50
+    },
+    {
+      "value": 5.0,
+      "probability": 50
+    }
+  ],
+  "build": {
+    "buildId": 0,
+    "initCost": [
+      {
+        "resourceId": 0,
+        "resourceName": "<*recourceName/0>",
+        "value": 0,
+        "image": "resource0.png"
+      },
+      {
+        "resourceId": 1,
+        "resourceName": "<*recourceName/1>",
+        "value": 100,
+        "image": "resource1.png"
+      },
+      {
+        "resourceId": 2,
+        "resourceName": "<*recourceName/2>",
+        "value": 0,
+        "image": "resource2.png"
+      }
+    ],
+    "fullCost": [
+      {
+        "resourceId": 0,
+        "resourceName": "<*recourceName/0>",
+        "value": 0,
+        "image": "resource0.png"
+      },
+      {
+        "resourceId": 1,
+        "resourceName": "<*recourceName/1>",
+        "value": 400,
+        "image": "resource1.png"
+      },
+      {
+        "resourceId": 2,
+        "resourceName": "<*recourceName/2>",
+        "value": 0,
+        "image": "resource2.png"
+      }
+    ],
+    "healCost": [
+      {
+        "resourceId": 0,
+        "resourceName": "<*recourceName/0>",
+        "value": 0,
+        "image": "resource0.png"
+      },
+      {
+        "resourceId": 1,
+        "resourceName": "<*recourceName/1>",
+        "value": 100,
+        "image": "resource1.png"
+      },
+      {
+        "resourceId": 2,
+        "resourceName": "<*recourceName/2>",
+        "value": 0,
+        "image": "resource2.png"
+      }
+    ],
+    "initHealth": 75.0
+  }
+}

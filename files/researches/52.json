@@ -1,0 +1,1 @@
+{"gameId":52,"name":"<*upgrade52/0>","image":"upgrade52.png","description":"<*upgrade52/1>","upgrades":[{"upgradeId":4,"parameters":{"add":"1","work2":"1","work":"0"},"programId":23,"programFile":"gameplay/upgrades/unit/workReserveLimitAdd.lua","unit":{"entityName":"<*unitName32>","entityId":32,"entityImage":"unit32.png"}}]}

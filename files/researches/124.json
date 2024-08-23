@@ -1,0 +1,1 @@
+{"gameId":124,"name":"<*upgrade124/0>","image":"upgrade124.png","description":"<*upgrade124/1>","upgrades":[{"upgradeId":247,"parameters":{"add":"5000","weapon":"0"},"programId":34,"programFile":"gameplay/upgrades/unit/weapon/damageAdd.lua","unit":{"entityName":"<*unitName45>","entityId":45,"entityImage":"unit45.png"}}]}

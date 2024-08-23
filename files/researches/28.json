@@ -1,0 +1,1 @@
+{"gameId":28,"name":"<*upgrade28/0>","image":"upgrade28.png","description":"<*upgrade28/1>","upgrades":[{"upgradeId":151,"parameters":{"add":"15","gather":"6"},"programId":2,"programFile":"gameplay/upgrades/unit/gatherSpeedAdd.lua","unit":{"entityName":"<*unitName12>","entityId":12,"entityImage":"unit12.png"}}]}

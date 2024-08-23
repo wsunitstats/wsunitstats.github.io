@@ -1,0 +1,1 @@
+{"gameId":64,"name":"<*upgrade64/0>","image":"upgrade64.png","description":"<*upgrade64/1>","upgrades":[{"upgradeId":225,"parameters":{"country":"gb"},"programId":26,"programFile":"gameplay/upgrades/toCountry.lua"}]}

@@ -1,0 +1,1 @@
+{"gameId":14,"name":"<*upgrade14/0>","image":"upgrade14.png","description":"<*upgrade14/1>","upgrades":[{"upgradeId":74,"parameters":{"add":"300"},"programId":16,"programFile":"gameplay/upgrades/supplyLimitAdd.lua"}]}
