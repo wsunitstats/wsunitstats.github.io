@@ -1,1 +1,1 @@
-{"gameId":13,"name":"<*upgrade13/0>","image":"upgrade13.png","description":"<*upgrade13/1>","upgrades":[{"upgradeId":40,"programId":33,"programFile":"gameplay/upgrades/unit/abilityOnActionEnable.lua","unit":{"entityName":"<*unitName6>","entityId":6,"entityImage":"unit6.png"}}]}
+{"gameId":13,"name":"<*upgrade13/0>","image":"upgrade13.png","description":"<*upgrade13/1>","upgrades":[{"upgradeId":40,"programId":33,"programFile":"gameplay/upgrades/unit/abilityOnActionEnable.lua","unit":{"entityName":"<*unitName6>","entityId":6,"entityImage":"unit6.png"}}],"type":"other"}

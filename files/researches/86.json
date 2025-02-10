@@ -1,1 +1,1 @@
-{"gameId":86,"name":"<*upgrade86/0>","image":"upgrade86.png","description":"<*upgrade86/1>","upgrades":[{"upgradeId":93,"programId":39,"programFile":"gameplay/upgrades/europe/east/toWonder.lua"}]}
+{"gameId":86,"name":"<*upgrade86/0>","image":"upgrade86.png","description":"<*upgrade86/1>","upgrades":[{"upgradeId":93,"programId":39,"programFile":"gameplay/upgrades/europe/east/toWonder.lua"}],"type":"wonderTransition"}

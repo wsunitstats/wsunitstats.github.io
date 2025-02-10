@@ -1,1 +1,1 @@
-{"gameId":2,"name":"<*upgrade2/0>","image":"upgrade2.png","description":"<*upgrade2/1>","upgrades":[{"upgradeId":17,"programId":24,"programFile":"gameplay/upgrades/asia/toIronAge.lua"}]}
+{"gameId":2,"name":"<*upgrade2/0>","image":"upgrade2.png","description":"<*upgrade2/1>","upgrades":[{"upgradeId":17,"programId":24,"programFile":"gameplay/upgrades/asia/toIronAge.lua"}],"type":"ageTransition"}

@@ -1,1 +1,1 @@
-{"gameId":8,"name":"<*upgrade8/0>","image":"upgrade8.png","description":"<*upgrade8/1>","upgrades":[{"upgradeId":12,"programId":12,"programFile":"gameplay/upgrades/asia/toMiddleAgesEast.lua"}]}
+{"gameId":8,"name":"<*upgrade8/0>","image":"upgrade8.png","description":"<*upgrade8/1>","upgrades":[{"upgradeId":12,"programId":12,"programFile":"gameplay/upgrades/asia/toMiddleAgesEast.lua"}],"type":"ageTransition"}

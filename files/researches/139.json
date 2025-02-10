@@ -1,1 +1,1 @@
-{"gameId":139,"name":"<*upgrade139/0>","image":"upgrade139.png","description":"<*upgrade139/1>","upgrades":[{"upgradeId":274,"parameters":{"mult":"35"},"programId":0,"programFile":"gameplay/upgrades/unit/moveSpeed.lua"}]}
+{"gameId":139,"name":"<*upgrade139/0>","image":"upgrade139.png","description":"<*upgrade139/1>","upgrades":[{"upgradeId":274,"parameters":{"mult":"35"},"programId":0,"programFile":"gameplay/upgrades/unit/moveSpeed.lua"}],"type":"other"}

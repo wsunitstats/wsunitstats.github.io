@@ -1,1 +1,1 @@
-{"gameId":119,"name":"<*upgrade119/0>","image":"upgrade119.png","description":"<*upgrade119/1>","upgrades":[{"upgradeId":244,"parameters":{"add":"15000"},"programId":30,"programFile":"gameplay/upgrades/addTerritorySize.lua"}]}
+{"gameId":119,"name":"<*upgrade119/0>","image":"upgrade119.png","description":"<*upgrade119/1>","upgrades":[{"upgradeId":244,"parameters":{"add":"15000"},"programId":30,"programFile":"gameplay/upgrades/addTerritorySize.lua"}],"type":"other"}

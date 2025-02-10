@@ -1,1 +1,1 @@
-{"gameId":26,"name":"<*upgrade26/0>","image":"upgrade26.png","description":"<*upgrade26/1>","upgrades":[{"upgradeId":149,"parameters":{"add":"600"},"programId":16,"programFile":"gameplay/upgrades/supplyLimitAdd.lua"}]}
+{"gameId":26,"name":"<*upgrade26/0>","image":"upgrade26.png","description":"<*upgrade26/1>","upgrades":[{"upgradeId":149,"parameters":{"add":"600"},"programId":16,"programFile":"gameplay/upgrades/supplyLimitAdd.lua"}],"type":"other"}
