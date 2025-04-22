@@ -1,1 +1,1 @@
-{"gameId":117,"name":"<*upgrade117/0>","image":"upgrade117.png","description":"<*upgrade117/1>","upgrades":[{"upgradeId":237,"parameters":{"add":"800"},"programId":16,"programFile":"gameplay/upgrades/supplyLimitAdd.lua"}],"type":"other"}
+{"gameId":117,"name":"<*upgrade117/0>","image":"upgrade117.png","description":"<*upgrade117/1>","upgrades":[{"upgradeId":237,"parameters":{"add":"800"},"programId":16,"programFile":"gameplay/upgrades/supplyLimitAdd.lua"}],"type":"researchTypePop"}

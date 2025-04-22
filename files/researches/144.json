@@ -1,1 +1,1 @@
-{"gameId":144,"name":"<*upgrade144/0>","image":"upgrade144.png","description":"<*upgrade144/1>","upgrades":[{"upgradeId":283,"parameters":{"add":"-100"},"programId":19,"programFile":"gameplay/upgrades/unit/regeneration.lua"}],"type":"other"}
+{"gameId":144,"name":"<*upgrade144/0>","image":"upgrade144.png","description":"<*upgrade144/1>","upgrades":[{"upgradeId":283,"parameters":{"add":"-100"},"programId":19,"programFile":"gameplay/upgrades/unit/regeneration.lua"}],"type":"researchTypeBuff"}

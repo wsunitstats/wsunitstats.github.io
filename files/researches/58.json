@@ -1,1 +1,1 @@
-{"gameId":58,"name":"<*upgrade58/0>","image":"upgrade58.png","description":"<*upgrade58/1>","upgrades":[{"upgradeId":191,"programId":37,"programFile":"gameplay/upgrades/asia/toWonder.lua"}],"type":"wonderTransition"}
+{"gameId":58,"name":"<*upgrade58/0>","image":"upgrade58.png","description":"<*upgrade58/1>","upgrades":[{"upgradeId":191,"programId":37,"programFile":"gameplay/upgrades/asia/toWonder.lua"}],"type":"researchTypeWonderTransition"}

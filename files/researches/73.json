@@ -1,1 +1,1 @@
-{"gameId":73,"name":"<*upgrade73/0>","image":"upgrade73.png","description":"<*upgrade73/1>","upgrades":[{"upgradeId":234,"parameters":{"country":"jp"},"programId":26,"programFile":"gameplay/upgrades/toCountry.lua"}],"type":"ageTransition"}
+{"gameId":73,"name":"<*upgrade73/0>","image":"upgrade73.png","description":"<*upgrade73/1>","upgrades":[{"upgradeId":234,"parameters":{"country":"jp"},"programId":26,"programFile":"gameplay/upgrades/toCountry.lua"}],"type":"researchTypeAgeTransition"}

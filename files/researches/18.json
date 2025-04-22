@@ -1,1 +1,1 @@
-{"gameId":18,"name":"<*upgrade18/0>","image":"upgrade18.png","description":"<*upgrade18/1>","upgrades":[{"upgradeId":140,"programId":1,"programFile":"gameplay/upgrades/openBordersFow.lua"}],"type":"other"}
+{"gameId":18,"name":"<*upgrade18/0>","image":"upgrade18.png","description":"<*upgrade18/1>","upgrades":[{"upgradeId":140,"programId":1,"programFile":"gameplay/upgrades/openBordersFow.lua"}],"type":"researchTypeTerritory"}
