@@ -1,0 +1,1 @@
+{"gameId":151,"name":"<*upgrade151/0>","image":"upgrade151.png","description":"<*upgrade151/1>","upgrades":[{"upgradeId":297,"parameters":{"mult":"140","multRotation":"140"},"programId":0,"programFile":"gameplay/upgrades/unit/moveSpeed.lua"}],"type":"researchTypeOther"}

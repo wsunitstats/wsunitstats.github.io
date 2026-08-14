@@ -1,0 +1,1 @@
+{"gameId":153,"name":"<*upgrade153/0>","image":"upgrade153.png","description":"<*upgrade153/1>","upgrades":[{"upgradeId":299,"parameters":{"mult":"40"},"programId":35,"programFile":"gameplay/upgrades/unit/viewRange.lua"}],"type":"researchTypeOther"}

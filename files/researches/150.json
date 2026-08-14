@@ -1,0 +1,1 @@
+{"gameId":150,"name":"<*upgrade150/0>","image":"upgrade150.png","description":"<*upgrade150/1>","upgrades":[{"upgradeId":296,"parameters":{"add":"100"},"programId":19,"programFile":"gameplay/upgrades/unit/regeneration.lua"}],"type":"researchTypeOther"}
