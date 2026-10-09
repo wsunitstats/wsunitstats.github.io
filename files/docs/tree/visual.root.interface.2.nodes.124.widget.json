@@ -1,0 +1,1 @@
+[{"k":"descriptor","v":"interfaces/WarSelection/store","tp":"str"},{"k":"descriptorFromScript","v":"false","tp":"bool"},{"k":"f_setParameter","v":"(name,value)","tp":"func"},{"k":"interface","tp":"obj","as":true},{"k":"name","v":"store","tp":"str"},{"k":"parameters","v":"","tp":"str"},{"k":"playerAction","v":"","tp":"str"},{"k":"styleName","v":"","tp":"str"}]

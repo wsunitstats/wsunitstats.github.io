@@ -1,1 +1,0 @@
-[{"id":"visual.root.interface[27].contentMapper.f_getTexture","lb":"f_getTexture(contentId)","tp":"func","cb":"b155"},{"id":"visual.root.interface[27].contentMapper.f_setTexture","lb":"f_setTexture(contentId,token)","tp":"func","cb":"b155"},{"id":"visual.root.interface[27].contentMapper.namePrefix","lb":"namePrefix: unitsSelectedGroup","tp":"str","cb":"b155"}]

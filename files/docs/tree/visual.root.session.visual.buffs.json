@@ -1,0 +1,1 @@
+[{"k":"f_clear","v":"()","tp":"func"},{"k":"f_copy","v":"(fromId, toId)","tp":"func"},{"k":"f_create","v":"(null/id)","tp":"func"},{"k":"f_remove","v":"(id)","tp":"func"},{"k":"size","v":"1","tp":"num"},{"k":"137","tp":"obj","ch":[{"k":"emittersGroup","v":"367","tp":"num"},{"k":"period","v":"50","tp":"num"}]}]

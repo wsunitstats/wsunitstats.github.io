@@ -1,0 +1,1 @@
+{"gameId":155,"name":"<*upgrade155#0>","image":"upgrade/155.png","description":"<*upgrade155#1>","upgrades":[{"upgradeId":312,"parameters":{"enable":"false"},"programId":43,"programFile":"gameplay/upgrades/unit/controllable.lua"}],"type":"researchTypeBuff"}

@@ -1,0 +1,1 @@
+[{"k":"f_clear","v":"()","tp":"func"},{"k":"f_copy","v":"(fromId, toId)","tp":"func"},{"k":"f_create","v":"(null/id)","tp":"func"},{"k":"f_remove","v":"(id)","tp":"func"},{"k":"size","v":"0","tp":"num"}]

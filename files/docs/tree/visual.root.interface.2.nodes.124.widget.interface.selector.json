@@ -1,0 +1,1 @@
+[{"k":"f_clear","v":"()","tp":"func"},{"k":"focused","tp":"obj","ch":[{"k":"f_copy","v":"(fromId, toId)","tp":"func"},{"k":"size","v":"0","tp":"num"}]},{"k":"pointed","tp":"obj","ch":[{"k":"f_copy","v":"(fromId, toId)","tp":"func"},{"k":"size","v":"0","tp":"num"}]}]

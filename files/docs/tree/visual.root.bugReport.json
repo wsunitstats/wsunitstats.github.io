@@ -1,0 +1,1 @@
+[{"k":"available","v":"true","tp":"bool"},{"k":"f_cancel","v":"()","tp":"func"},{"k":"f_capture","v":"()","tp":"func"},{"k":"f_getState","v":"()","tp":"func"},{"k":"f_getStatus","v":"()","tp":"func"},{"k":"f_send","v":"(description[,context[,attachScreenshot=true]])","tp":"func"},{"k":"hasPreview","v":"false","tp":"bool"},{"k":"hasScreenshot","v":"false","tp":"bool"}]
