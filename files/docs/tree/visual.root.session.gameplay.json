@@ -1,1 +1,1 @@
-[{"k":"controlledPlayer","v":"0","tp":"num"},{"k":"gameplay","tp":"obj","as":true},{"k":"pingDuration","v":"60","tp":"num"},{"k":"state","v":"4","tp":"num"},{"k":"streamBreak","v":"0","tp":"num"},{"k":"streamMode","v":"1","tp":"num"},{"k":"tickController","tp":"obj","as":true}]
+[{"k":"controlledPlayer","v":"0","tp":"num"},{"k":"gameplay","tp":"obj","as":true},{"k":"pingDuration","v":"0","tp":"num"},{"k":"state","v":"3","tp":"num"},{"k":"streamBreak","v":"0","tp":"num"},{"k":"streamMode","v":"1","tp":"num"},{"k":"tickController","tp":"obj","as":true}]
